@@ -3,7 +3,7 @@
 - Aplikasi ini menggunakan Framework Laravel versi 8
 ## Panduan Penggunaan Git
 
-* [Panduan Fitur dan Penggunaan Aplikasi](https://github.com/EkoSetiyo13/kantin-kejujuran-comfest/Panduan.md)
+* [Panduan Fitur dan Penggunaan Aplikasi](https://github.com/EkoSetiyo13/kantin-kejujuran-comfest/info)
 
 ## Cara instalasi di localhost
 ### Requirement
