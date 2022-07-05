@@ -1,7 +1,11 @@
 # Project Kantin Kejujuran SD SEA - COMFEST 2022
 
 - Aplikasi ini menggunakan Framework Laravel versi 8
-* [Panduan Fitur dan Penggunaan Aplikasi](https://github.com/EkoSetiyo13/kantin-kejujuran-comfest/tree/main/info)
+- PHP dan SQL
+- Bootstrap CSS
+- [Laravel Notify](https://github.com/mckenziearts/laravel-notify)
+
+* [Fitur Aplikasi](https://github.com/EkoSetiyo13/kantin-kejujuran-comfest/tree/main/info)
 
 ## Cara instalasi di localhost
 ### Requirement
