@@ -3,7 +3,7 @@
 - Aplikasi ini menggunakan Framework Laravel versi 8
 ## Panduan Penggunaan Git
 
-* [Panduan Fitur dan Penggunaan Aplikasi](http://https://github.com/datascienceid/Panduan.md)
+* [Panduan Fitur dan Penggunaan Aplikasi](https://github.com/EkoSetiyo13/kantin-kejujuran-comfest/Panduan.md)
 
 ## Cara instalasi di localhost
 ### Requirement
