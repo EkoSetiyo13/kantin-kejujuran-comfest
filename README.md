@@ -1,28 +1,9 @@
-# Name Apps: Kantin Kejujuran
-- User : student
-- Activitas : Add, Sell, Buy
-- Product Attribut: name, image, description, price, timestamp
-- sorting : created, name
-- All can add kantin's balance, max unlimited
-- All can withdraw, kantin's balance
-
-Plan and Design :
-- home view [v]
-- product view [v]
-- product detail view [v]
-- login view [v] 
-- register view [v]
-- add balance view [v]
-- withdraw view [v]
-- checkout view [v]
-- add product view [v]
-- sorting component [v]
-
-- login action [v]
-- register action [v]
-- logout action [v]
-
 # Project Kantin Kejujuran SD SEA - COMFEST 2022
+
+- Aplikasi ini menggunakan Framework Laravel versi 8
+## Panduan Penggunaan Git
+
+* [Panduan Fitur dan Penggunaan Aplikasi](http://https://github.com/datascienceid/Panduan.md)
 
 ## Cara instalasi di localhost
 ### Requirement
@@ -51,4 +32,30 @@ Plan and Design :
 | ------------- | ------------- | ------------- |
 | 1 | 12306  |  siswa123  |
 | 2 | 44412  | siswa123  |
+
+
+# Name Apps: Kantin Kejujuran
+- User : student
+- Activitas : Add, Sell, Buy
+- Product Attribut: name, image, description, price, timestamp
+- sorting : created, name
+- All can add kantin's balance, max unlimited
+- All can withdraw, kantin's balance
+
+Plan and Design :
+- home view [v]
+- product view [v]
+- product detail view [v]
+- login view [v] 
+- register view [v]
+- add balance view [v]
+- withdraw view [v]
+- checkout view [v]
+- add product view [v]
+- sorting component [v]
+
+- login action [v]
+- register action [v]
+- logout action [v]
+
 

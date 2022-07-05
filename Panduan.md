@@ -1,0 +1,1 @@
+- Aplikasi ini menggunakan Framework Laravel versi 8
